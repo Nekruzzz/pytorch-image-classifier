@@ -1,0 +1,5 @@
+torch>=2.2
+numpy>=1.26
+scikit-learn>=1.4
+transformers>=4.40   # only needed for src/hf_baseline.py
+pytest>=8.0
